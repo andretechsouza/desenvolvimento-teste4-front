@@ -1,0 +1,12 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: teste4-front
+  description: "teste front-end"
+  annotations:
+    github.com/project-slug: desenvolvimento/teste4-front
+spec:
+  type: web
+  lifecycle: experimental
+  owner: UTIC
+  system: desenvolvimento
